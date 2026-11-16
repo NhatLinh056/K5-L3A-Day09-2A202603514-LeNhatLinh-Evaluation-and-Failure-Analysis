@@ -8,6 +8,7 @@
 __pycache__/
 *.py[cod]
 .pytest_cache/
+pytest-of-*/
 .DS_Store
 
 # Lab 8 runtime output. Code lives in src/ and every command runs from src/.
@@ -20,3 +21,4 @@ src/reports/bonus_hidden.json
 
 # Instructor-only hidden pack. Never push it to this repo.
 src/eval/instructor/
+PHAN_CONG_NHOM_DKL.md
