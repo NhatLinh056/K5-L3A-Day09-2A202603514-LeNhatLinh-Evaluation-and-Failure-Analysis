@@ -26,7 +26,7 @@ Gợi ý chia vai:
 
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
-| | | | |
+| Lê Nhật Linh | single + benchmark, ADR | 6f59b95 | src/tests/test_single_shape.py; src/tests/test_shape_approval_paths.py |
 
 ## Cá nhân
 
